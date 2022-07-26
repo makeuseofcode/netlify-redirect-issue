@@ -14,8 +14,3 @@ This is a website made for the [How to Fix a Failing Redirect on Netlify](https:
 
 * Run `ng build` to build the project. The build artifacts will be stored in the dist/ directory. 
 * Use `ng build --prod` for a production build.
-
-<br>
-<br>
-
-![alt text](src/assets/images/preview.PNG)
