@@ -1,8 +1,8 @@
-# angular-template
+# netlify-redirect-issue
 
 ## About 
 
-This is a template for a working Angular app already set up with **routing**, **basic components** (Home, About, and Contact) and **Bootstrap** installed.
+This is a website made for the [How to Fix a Failing Redirect on Netlify](https://www.makeuseof.com/netlify-redirect-fail-error-fix/) tutorial on MUO.
 
 ## To Run
 
